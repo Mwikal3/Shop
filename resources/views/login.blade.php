@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Login to E-commerce Shop</title>
+    <title>SHOP</title>
 </head>
 <body>
     <h2>Login</h2>
